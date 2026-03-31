@@ -12,17 +12,20 @@ I built this end-to-end interactive Power BI dashboard to analyze e-commerce sal
 ### Key Features
 
 **Page 1: Overview KPIs & Trend Forecast**
+![Page 1 - Overview KPIs](Screenshot%202026-03-26%20022822.png)
 - KPI cards (Total Revenue, Orders, AOV, Avg Review Score)
 - Monthly revenue trend with 12-month built-in forecasting (95% confidence interval)
 - Interactive slicers (Year, Festival Season, Product Category)
 
 **Page 2: Deep Dive Analysis**
+![Page 2 - Deep Dive](Screenshot%202026-03-26%20022843.png)
 - Top Product Categories by Revenue (sorted descending)
 - Revenue by State (Brazil map with SP as highest contributor)
 - Revenue by Payment Type (donut chart)
 - Review Sentiment analysis (matrix with conditional formatting)
 
 **Page 3: Predictions & Recommendations**
+![Page 3 - Predictions](Screenshot%202026-03-26%20022909.png)
 - Interactive What-If Growth Rate Slider (0% to 30%)
 - Forecasted top revenue by categories
 - Actionable business recommendations based on scenarios
