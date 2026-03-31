@@ -2,7 +2,7 @@
 **Power BI | Interactive 3-Page Dashboard with Demand Forecasting**
 
 ### Live Dashboard
-https://app.powerbi.com/view?r=eyJrIjoiYzQ0NWVmNTgtNDkzMi00ZjFjLWEzOGQtZTY0NzEzZmVlMmNjIiwidCI6IjMxZDg4NTRiLTcxZTAtNDc1ZC1iOTY4LTdkYzE2MTE5N2RiNSJ9\&pageName=ef0b1ec6b747f0469038
+https://app.powerbi.com/view?r=eyJrIjoiYzQ0NWVmNTgtNDkzMi00ZjFjLWEzOGQtZTY0NzEzZmVlMmNjIiwidCI6IjMxZDg4NTRiLTcxZTAtNDc1ZC1iOTY4LTdkYzE2MTE5N2RiNSJ9&pageName=ef0b1ec6b747f0469038
 
 ---
 ### Project Overview
