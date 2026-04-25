@@ -12,7 +12,7 @@ I built this end-to-end interactive Power BI dashboard to analyze e-commerce sal
 ### Key Features
 
 **Page 1: Overview KPIs & Trend Forecast**
-![Page 1 - Overview KPIs](Screenshot 2026-04-25 224605.png)
+![Page 1 - Overview KPIs](Screenshot%202026-04-25%20224605.png)
 - KPI cards (Total Revenue, Orders, AOV, Avg Review Score)
 - Monthly revenue trend with 12-month built-in forecasting (95% confidence interval)
 - Interactive slicers (Year, Festival Season, Product Category)
